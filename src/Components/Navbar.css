@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Strait&display=swap');
+
+.strait-regular {
+    font-family: "Strait", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 15px;
+  }
